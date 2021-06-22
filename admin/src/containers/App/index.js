@@ -24,10 +24,6 @@ const navLinks = [
     name: "Import Data",
     to: pathTo("import"),
   },
-  {
-    name: "Export Data",
-    to: pathTo("export"),
-  },
 ];
 
 function App() {
